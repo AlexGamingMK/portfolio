@@ -10,6 +10,7 @@
   --hue-color: 224;
   --hue-color2: 355;
   --first-color: hsl(var(--hue-color), 89%, 60%);
+  --second-color: hsl(var(--hue-color), 56%, 12%);
   --first-color2: hsl(var(--hue-color2), 89%, 60%);
   /*===== Fuente y tipografia =====*/
   --body-font: 'Poppins', sans-serif;
@@ -344,6 +345,7 @@ img {
 
 .skills__img {
   border-radius: .5rem;
+  margin-bottom: 20px;
 }
 
 /* ===== WORK =====*/
